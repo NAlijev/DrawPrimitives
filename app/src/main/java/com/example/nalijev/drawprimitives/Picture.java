@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 
 /**
- * Created by NAlijev on 29.09.2015.
+ * Created by NAlijev on 29.09.2015.dsdasdasdasdasda
  */
 
 
